@@ -1,5 +1,10 @@
 # Integración de RabbitMQ con Spring
 
+#### Katherin Juliana Moreno Carvajal
+#### Mariana Salas Gutierrez
+#### Santiago Navarro Cuy
+
+
 ## 1. Introducción
 RabbitMQ es un popular sistema de mensajería basado en el protocolo AMQP (Advanced Message Queuing Protocol). Permite a las aplicaciones comunicarse entre sí a través de mensajes asíncronos, desacoplando la producción y el consumo de mensajes. Esto es especialmente útil en arquitecturas de microservicios y en aplicaciones que requieren alta disponibilidad y escalabilidad.
 
